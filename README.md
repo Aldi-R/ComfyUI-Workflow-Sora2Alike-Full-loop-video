@@ -8,25 +8,36 @@ Generate complete video stories from minimal input: a character description, a r
 
 ## 🎬 Workflows Included
 
-This repository contains two powerful workflows:
+This repository contains three powerful workflows:
 
-### 1. **Main Workflow: Sora2-ComfyUI** (Character-Based Video Generation)
+### 1. **Google Veo 3 Pipeline** ⚡ (Long-Form Video Generation)
+**File**: `workflow-full-loop-Google.json`
+
+![Workflow Preview](03.png)
+
+![Demo](03.gif)
+
+**⚠️ Note**: This workflow uses **paid APIs** (Google Veo 3, Imagen 3, etc.). **Costs can be very high** for video generation. Not open-source models.
+
+Simplified pipeline for generating longer videos using Google's latest models in ComfyUI. Same core approach but leverages proprietary APIs for enhanced quality and length.
+
+### 2. **Sora2-ComfyUI** (Open-Source Character Videos)
 **File**: `workflow-full-loop-Sora2-ComfyUI.json`
 
 ![Workflow Preview](01.png)
 
 ![Demo](01.gif)
 
-Character-driven multi-shot video generation with automated dialogue and perfect lip-sync.
+Character-driven multi-shot video generation with automated dialogue and perfect lip-sync. **100% open-source models**.
 
-### 2. **Story Creator** (Narrative Sequences with Music)
+### 3. **Story Creator** (Narrative Sequences with Music)
 **File**: `workflow-full-loop-Storycreator.json`
 
 ![Workflow Preview](02.png)
 
 ![Demo](02.gif)
 
-Text-to-story generation with custom styles, music synchronization, and complete narrative control.
+Text-to-story generation with custom styles, music synchronization, and complete narrative control. **Open-source based**.
 
 ---
 
